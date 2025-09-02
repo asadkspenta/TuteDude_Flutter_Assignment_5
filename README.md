@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 BMI Calculator App (Flutter)
 
 This is my **BMI Calculator App project** made using Flutter.  
@@ -25,3 +26,7 @@ Here are three screenshots of my app:
 | ![Normal BMI](images/screenshot1.png) | ![Overweight BMI](images/screenshot2.png) | ![Obese BMI](images/screenshot3.png) |
 
 ---
+=======
+# TuteDude_Flutter_Assignment_5
+TuteDude_Flutter_Assignment_5
+>>>>>>> d295d999597a5f74ca22dfecc2cd3a77aedadde1
